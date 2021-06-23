@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4nMdZqI9hd0AxPj78F5vnEMswdFumWvlzqK7rcIOPkZq004aDdwspniGZFivaOkrsPtRevc7C27zZLIX92mMFA==",
+  "dgSpecHash": "JSODdxXDUz2lUVXVPkJcB5O+uKBTeFeH4omyADqxmeN4nS+fvMn7mPZatukm4R7mwJ+IBFER3UVmP4J502Nl9Q==",
   "success": true,
-  "projectFilePath": "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagmentWebApi\\EmployeeManagmentWebApi.csproj",
+  "projectFilePath": "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagmentWebApi\\EmployeeManagmentWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rashid Malik\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Rashid Malik\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
