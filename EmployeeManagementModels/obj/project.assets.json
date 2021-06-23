@@ -763,11 +763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
+      "projectUniqueName": "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
       "projectName": "EmployeeManagementModels",
-      "projectPath": "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
+      "projectPath": "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
       "packagesPath": "C:\\Users\\Rashid Malik\\.nuget\\packages\\",
-      "outputPath": "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagementModels\\obj\\",
+      "outputPath": "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagementModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rashid Malik\\AppData\\Roaming\\NuGet\\NuGet.Config",

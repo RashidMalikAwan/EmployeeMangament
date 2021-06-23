@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagmentWebApi\\EmployeeManagmentWebApi.csproj": {}
+    "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagmentWebApi\\EmployeeManagmentWebApi.csproj": {}
   },
   "projects": {
-    "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagementModels\\EmployeeManagementModels.csproj": {
+    "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagementModels\\EmployeeManagementModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
+        "projectUniqueName": "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
         "projectName": "EmployeeManagementModels",
-        "projectPath": "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
+        "projectPath": "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
         "packagesPath": "C:\\Users\\Rashid Malik\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagementModels\\obj\\",
+        "outputPath": "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagementModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rashid Malik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,14 +66,14 @@
         }
       }
     },
-    "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagmentWebApi\\EmployeeManagmentWebApi.csproj": {
+    "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagmentWebApi\\EmployeeManagmentWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagmentWebApi\\EmployeeManagmentWebApi.csproj",
+        "projectUniqueName": "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagmentWebApi\\EmployeeManagmentWebApi.csproj",
         "projectName": "EmployeeManagmentWebApi",
-        "projectPath": "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagmentWebApi\\EmployeeManagmentWebApi.csproj",
+        "projectPath": "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagmentWebApi\\EmployeeManagmentWebApi.csproj",
         "packagesPath": "C:\\Users\\Rashid Malik\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagmentWebApi\\obj\\",
+        "outputPath": "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagmentWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rashid Malik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagementModels\\EmployeeManagementModels.csproj": {
-                "projectPath": "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagementModels\\EmployeeManagementModels.csproj"
+              "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagementModels\\EmployeeManagementModels.csproj": {
+                "projectPath": "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagementModels\\EmployeeManagementModels.csproj"
               }
             }
           }

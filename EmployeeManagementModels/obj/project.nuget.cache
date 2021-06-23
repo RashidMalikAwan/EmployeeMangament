@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nckUgV3+0zHvRuAAyFgNURTNVjpKfMFcTtFlpxu0jaf0M32xSTmbvmraXkjx81/W2OtQbzGt+z8tbBPnm0bsOw==",
+  "dgSpecHash": "aY5dZIAckXT0Rfu1hXBkvt3ruDyS31F/yG+4DG0gnjAD0ejK+hdwOT4ciU3b2xS/e6kdJ1M4WfOkGaW1oBCXLQ==",
   "success": true,
-  "projectFilePath": "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
+  "projectFilePath": "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmployeeManagementModels\\EmployeeManagementModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rashid Malik\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rashid Malik\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

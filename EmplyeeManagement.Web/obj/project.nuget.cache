@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yhpXBB4sNFSWLk/NxZPO3J+aUJwOQmKR9oitNbjAHoVKcUQqENhbPZQgWh2ktVQr2Tajn68YJ86KcMVuXHOOqQ==",
+  "dgSpecHash": "MgpHhD2MzaKI/IUOZIXvcYNhNCFvat0ANpdD08BsGlhgvc8FPOW0pqZLCemiuTvThMHy9u5IOVhbZ88+pNYVaQ==",
   "success": true,
-  "projectFilePath": "E:\\WorkingFolder Rashid Ashraf Malik\\BlazorTutorial\\EmplyeeManagement.Web\\EmplyeeManagement.Web.csproj",
+  "projectFilePath": "E:\\WorkingFolder Rashid Ashraf Malik\\EmployeeMangament\\EmplyeeManagement.Web\\EmplyeeManagement.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
